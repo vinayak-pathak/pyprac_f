@@ -1,6 +1,5 @@
-name: covid
+name: tfprac
 channels:
-  - pytorch
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -88,7 +87,6 @@ dependencies:
   - pyrsistent=0.16.0=py38h7b6447c_0
   - python=3.8.3=hcff3b4d_0
   - python-dateutil=2.8.1=py_0
-  - pytorch=1.5.0=py3.8_cuda10.2.89_cudnn7.6.5_0
   - pytz=2020.1=py_0
   - pyzmq=18.1.1=py38he6710b0_0
   - qt=5.9.7=h5867ecd_1
@@ -105,7 +103,6 @@ dependencies:
   - terminado=0.8.3=py38_0
   - testpath=0.4.4=py_0
   - tk=8.6.8=hbc83047_0
-  - torchvision=0.6.0=py38_cu102
   - tornado=6.0.4=py38h7b6447c_1
   - tqdm=4.46.0=py_0
   - traitlets=4.3.3=py38_0
@@ -141,4 +138,3 @@ dependencies:
     - urllib3==1.25.9
     - wandb==0.8.36
     - watchdog==0.10.2
-
