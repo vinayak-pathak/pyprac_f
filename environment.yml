@@ -25,6 +25,7 @@ dependencies:
   - icu=58.2=he6710b0_3
   - importlib_metadata=1.5.0=py38_0
   - intel-openmp=2020.1=217
+  - tensorflow-gpu
   - ipykernel=5.1.4=py38h39e3cac_0
   - ipython=7.13.0=py38h5ca1d4c_0
   - ipython_genutils=0.2.0=py38_0
